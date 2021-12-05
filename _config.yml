@@ -28,7 +28,7 @@ twitter_username: CallJCW
 github_username:  JamesC-W
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
